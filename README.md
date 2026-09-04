@@ -51,3 +51,10 @@ Power BI Desktop — data modeling, DAX measures, report design across 5 report 
 
 Built on illustrative/sample HSE data for portfolio purposes; figures do not represent any real company's actual safety or environmental performance.
 
+<img width="1517" height="855" alt="Process Safety   Exposure" src="https://github.com/user-attachments/assets/d3f852bd-5209-4655-ab52-ce079766bb07" />
+<img width="1577" height="846" alt="Incidents   TRIR" src="https://github.com/user-attachments/assets/2c9dbcad-5fb5-41ba-9b8d-a782b346b865" />
+<img width="1652" height="862" alt="Executive HS E Overview" src="https://github.com/user-attachments/assets/c072cb00-a67d-4bdb-918d-10c073de66de" />
+<img width="1575" height="843" alt="Environmental Performance" src="https://github.com/user-attachments/assets/20109d6d-a11e-4790-bee8-fbf8b5e09347" />
+<img width="1532" height="828" alt="Training   Compliance" src="https://github.com/user-attachments/assets/33bab0b3-a480-46d2-a43c-0c57346c1790" />
+
+
